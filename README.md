@@ -14,6 +14,7 @@
   <a href="https://skyjjgw.com"><img src="https://img.shields.io/badge/Website-skyjjgw.com-C9AA58?style=flat-square" alt="个人网站 skyjjgw.com"></a>
   <a href="mailto:skyjjgw@gmail.com"><img src="https://img.shields.io/badge/Email-skyjjgw%40gmail.com-435F83?style=flat-square" alt="邮箱 skyjjgw@gmail.com"></a>
   <a href="https://github.com/skyjjgw"><img src="https://img.shields.io/badge/GitHub-skyjjgw-182B43?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub skyjjgw"></a>
+  <a href="https://x.com/skyjjgw"><img src="https://img.shields.io/badge/X-%40skyjjgw-181717?style=flat-square&amp;logo=x&amp;logoColor=white" alt="X @skyjjgw"></a>
 </p>
 
 ## 关于我
@@ -65,6 +66,7 @@
 
 - 个人网站：[skyjjgw.com](https://skyjjgw.com)
 - GitHub：[@skyjjgw](https://github.com/skyjjgw)
+- X：[@skyjjgw](https://x.com/skyjjgw)
 - 邮箱：[skyjjgw@gmail.com](mailto:skyjjgw@gmail.com)
 - 社区：[Pieces Lab](https://github.com/Pieces-lab) · [个人网站合集中的条目](https://github.com/Pieces-lab/Prices-AI-website/blob/main/templates/skyjjgw.com.md)
 

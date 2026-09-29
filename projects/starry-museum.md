@@ -36,6 +36,7 @@
 ## 联系方式
 
 - GitHub：<https://github.com/skyjjgw>
+- X：[@skyjjgw](https://x.com/skyjjgw)
 - 邮箱：[skyjjgw@gmail.com](mailto:skyjjgw@gmail.com)
 
 ## 素材与源码
